@@ -110,7 +110,8 @@ ________________________________________________________________________________
 
 msfvenom --list payloads
 
---list payloads: This is an option or parameter passed to msfvenom that instructs it to list all available payloads. When you run this command, msfvenom will provide a comprehensive list of payloads that can be used with various exploits and attack vectors.
+--list payloads: This is an option or parameter passed to msfvenom that instructs it to list all available payloads. When you run this command, msfvenom will provide a comprehensive list of
+payloads that can be used with various exploits and attack vectors.
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 
